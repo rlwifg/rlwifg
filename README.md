@@ -1,8 +1,8 @@
-# Data-driven Meta-learning Based Fine-Grained Recognition
+# Data-driven Meta-set Based Fine-Grained Visual Recognition
 
 Introduction
 ------------
-This is the source code for our paper **Data-driven Meta-learning Based Fine-Grained Recognition**.
+This is the source code for our paper **Data-driven Meta-set Based Fine-Grained Visual Recognition**.
 
 Network Architecture
 --------------------
