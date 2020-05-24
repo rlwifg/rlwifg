@@ -2,7 +2,7 @@
 
 Introduction
 ------------
-This is the source code for our paper **Data-driven Meta-learning Based Fine-Grained Recognition**
+This is the source code for our paper **Data-driven Meta-learning Based Fine-Grained Recognition**.
 
 Network Architecture
 --------------------
