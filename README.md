@@ -29,12 +29,8 @@ The code is currently tested only on GPU
     - If you already have the benchmark datasets, you can directly use part of them as the validation sets.
     Otherwise, download validation data into project root directory and uncompress them using
         ```
-        wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/web-bird.tar.gz
-        wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/web-car.tar.gz
-        wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/web-aircraft.tar.gz
-        tar -xvf val-bird.tar.gz
-        tar -xvf val-car.tar.gz
-        tar -xvf val-car.tar.gz
+        wget https://dmfgr.oss-cn-hongkong.aliyuncs.com/validation_data.zip
+        unzip validation_data.zip
         ```
     
 * **Source Code**
