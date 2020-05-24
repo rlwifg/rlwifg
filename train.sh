@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
-export CUDA_VISIBLE_DEVICES=2
+export CUDA_VISIBLE_DEVICES=0
 export PYTHONWARNINGS="ignore"
 
 # resnet18, resnet34
 export NET='resnet18'
-export path='tmp1'
-export data_base='/farm/zcy/data/fg-web-data/web-bird'
-export val_base='/farm/zcy/FG/meta-weight-net/my/meta_data/bird'
+export path='model'
+export data_base='fg-web-data/web-bird'
+export val_base='validation_data/bird'
 export N_CLASSES=200
 export lr=0.01
 export w_decay=1e-5
